@@ -2,6 +2,7 @@ Description:
 A web-based Gym Management Web Application built with PHP, MySQL, HTML/CSS, and JavaScript.
 This system helps gym administrators manage members, track attendance, monitor revenue, and generate reports through a modern dashboard interface.
 
+
 Features:
 
 Admin Authentication System
@@ -25,6 +26,7 @@ Search Functionality
 Monthly Membership Trend Graph
 
 
+
 Technologies Used:
 
 Backend: PHP
@@ -41,7 +43,9 @@ Version Control: Git & GitHub
 
 
 
+
  How to Run This Project (Local Setup)
+ 
 1️) Install XAMPP
 
 Download and install XAMPP:
@@ -53,6 +57,7 @@ git clone https://github.com/rachelleakk/gym_management_system.git
 Or download ZIP and extract.
 
 
+
 3) Move Project Folder
 
 Copy the project folder into: C:\xampp\htdocs\
@@ -62,10 +67,12 @@ Start Apache & MySQL
 Open XAMPP Control Panel and start: Apache,MySQL
 
 
+
 4) Import Database
 
 Open browser and go to:
 http://localhost/phpmyadmin
+
 Create a new database (e.g., gym_system)
 
 Click Import
@@ -73,6 +80,7 @@ Click Import
 Select gym_system.sql
 
 Click Go
+
 
 
 5) Access the Application
@@ -116,6 +124,7 @@ Backend logic implementation
 Dashboard UI/UX structuring
 
 Real-world system architecture
+
 
 
 
